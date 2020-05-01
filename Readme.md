@@ -1,1 +1,1 @@
-Some numerical methods problem hass been solved using java.
+Some numerical methods problem has been solved using java.
